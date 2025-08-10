@@ -1,5 +1,5 @@
-# LoadingScreen
-# loadingScreen.jsx
+
+# LoadingScreen.jsx
 
 import React, { useEffect, useState } from 'react'
 
