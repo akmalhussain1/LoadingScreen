@@ -44,9 +44,9 @@ return()=>clearInterval(interval);
 
 export default LoadingScreen
 
+
 #Index.css 
 @import "tailwindcss";
-
 html,body{
   margin: 0;
   padding: 0;
@@ -54,10 +54,6 @@ html,body{
   background: #0a0a0a;
   color: #f3f4f6;
 }
-
-
-
-
 @layer utilities{
   @keyframes loading{
     0%{
@@ -71,6 +67,7 @@ html,body{
     animation: loading 0.8s ease infinite;
   }
 }
+
 
 #App.jsx
 import React, { useState } from 'react'
