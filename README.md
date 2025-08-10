@@ -45,7 +45,7 @@ return()=>clearInterval(interval);
 export default LoadingScreen
 
 
-#Index.css 
+# Index.css 
 @import "tailwindcss";
 html,body{
   margin: 0;
