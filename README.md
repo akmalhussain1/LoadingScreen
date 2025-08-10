@@ -69,7 +69,7 @@ html,body{
 }
 
 
-#App.jsx
+# App.jsx
 import React, { useState } from 'react'
 import './index.css'
 import LoadingScreen from './components/LoadingScreen'
